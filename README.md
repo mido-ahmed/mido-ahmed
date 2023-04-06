@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Mohamed Ahmed</h1>
-  <b>Flutter developer</b>
+  <b>Flutter Developer</b>
   
 <h3 align="center">Contact With Me:</h3>
 <p align="center">
