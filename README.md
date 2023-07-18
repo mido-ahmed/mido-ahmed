@@ -1,4 +1,3 @@
-<div align="center">
 # 💫 About Me:
 Hi, I’m Mohamed, a Software Engineer who loves building nice apps. I recently developed a mobile app using Flutter that calculate bmi for peoples. I’d love to use all my skills in flutter, web development to build nice integrated apps
 
