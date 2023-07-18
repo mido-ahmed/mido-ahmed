@@ -8,6 +8,11 @@ I'm currently Google DSC Future Academy Core Team
 I'm currently learning Flutter and Firebase
 <br>
 Ask Me About Flutter, Dart, OOP, Python, MySQL
+
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]([https://facebook.com/100009840733552](https://www.facebook.com/profile.php?id=100009471490686)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/ahmed-badr-25953a19a/](http://www.linkedin.com/in/mohamed-ahmed-17054a1ab)) 
+
   
 <h3 align="center">Contact With Me:</h3>
 <p align="center">
