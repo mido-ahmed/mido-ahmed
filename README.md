@@ -9,7 +9,7 @@ I'm currently IEEE Future Academy Flutter Core Team 2023/2024
 <br>
 I'm currently learning Flutter and Firebase
 <br>
-Ask Me About Flutter, Dart, OOP, Python, MySQL
+Ask Me About Flutter, Dart, OOP
 
 
 ## 🌐 Social Media:
