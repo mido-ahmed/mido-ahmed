@@ -5,7 +5,6 @@ What about you?
 <br>
 I was within Google DSC Future Academy Flutter Core Team 2022/2023
 <br>
-<br>
 I'm currently IEEE Future Academy Flutter Core Team 2023/2024
 <br>
 I'm currently learning Flutter and Firebase
