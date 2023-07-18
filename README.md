@@ -1,6 +1,14 @@
 <div align="center">
-  <h1>Mohamed Ahmed</h1>
-  <b>Flutter Developer</b>
+# 💫 About Me:
+Hi, I’m Mohamed, a Software Engineer who loves building nice apps. I recently developed a mobile app using Flutter that calculate bmi for peoples. I’d love to use all my skills in flutter, web development to build nice integrated apps
+
+What about you?
+<br>
+I'm currently Google DSC Future Academy Core Team 
+<br>
+I'm currently learning Flutter and Firebase
+<br>
+Ask Me About Flutter, Dart, OOP, Python, MySQL
   
 <h3 align="center">Contact With Me:</h3>
 <p align="center">
