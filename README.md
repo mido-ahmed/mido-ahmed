@@ -17,7 +17,7 @@ Ask Me About Flutter, Dart, OOP, Python, MySQL
 <br/>
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-  <img src="https://skillicons.dev/icons?i=dart,flutter,idea,unity,vscode,github,javascript,linkedin,cpp,discord,git" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,androidstudio,idea,unity,vscode,github,visualstudio,vscode,stackoverflow,postman,matlab,firebase,figma,javascript,linkedin,cpp,discord,git" />
   <br />
   <br />
 </div>
