@@ -10,14 +10,9 @@ I'm currently learning Flutter and Firebase
 Ask Me About Flutter, Dart, OOP, Python, MySQL
 
 
-## 🌐 Social media:
+## 🌐 Social Media:
 <a href="https://fb.com/profile.php?id=100009471490686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Ahmed" height="30" width="40" /></a> <a href="https://linkedin.com/in/mohamed-ahmed-17054a1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ahmed" height="30" width="40" /></a>
 
-  
-<h3 align="center">Contact With Me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/mohamed-ahmed-17054a1ab/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Mohamed Ahmed" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100009471490686" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Mohamed Ahmed" height="30" width="40" /></a>
   
 <br/>
 <h3 align="center">Tools:</h3>
